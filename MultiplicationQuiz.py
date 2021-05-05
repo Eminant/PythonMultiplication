@@ -1,7 +1,4 @@
-#Emily Campa; Student ID #0463272
-#COSC-1302-NT1-20/FA; Prof. Inetha Sheffield
-#Final Exam Program
-#December 7, 2020
+#Emily Campa
 
 import random
 
